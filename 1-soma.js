@@ -5,4 +5,4 @@
 
     const soma = n1 + n2
 
-console.log(soma)
+    console.log(soma)
